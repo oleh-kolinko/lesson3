@@ -1,0 +1,14 @@
+$primary-color :yellow;
+
+// body{
+//   background: $primary-color;
+//   background: black;
+// }
+
+div{
+  background: $primary-color;
+
+  h1{
+    color: red;
+  }
+}
